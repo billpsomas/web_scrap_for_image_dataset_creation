@@ -3,6 +3,11 @@
 ## Description
 This repository contains a naive but useful script for creating Image Datasets using the Yandex Images Search Engine. 
 
+## Required Libraries
+In order to download the required libraries, use:
+
+<b> pip3 install requirements.txt </b>
+
 ## How it works
 In order to create your dataset, you first have to specify the classes about which you are interested in. Write them down in the classes.txt file and then run the script using:
 
