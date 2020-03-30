@@ -1,7 +1,7 @@
 # Create-Image-Dataset
 
 ## Description
-This repository contains a naive but useful script for creating Image Datasets using the Yandex Images Search Engine. 
+This repository contains a naive but useful script for creating Image Datasets using the Yandex Images Search Engine. It can be useful for creating datasets for various Computer Vision tasks, such as image classification, object detection, instance or semantic segmentation etc.
 
 ## Required Libraries
 In order to download the required libraries, use:
@@ -14,5 +14,3 @@ In order to create your dataset, you first have to specify the classes about whi
 <b> python create_dataset.py </b>
 
 What this script exactly does is that it searches Yandex Images for the class you have specified and it downloads all the images. Of course it's up to you if you want to specify a limit concerning the number of photos you want to download.
-
-<b> Hope you enjoy it! </b>
