@@ -9,7 +9,7 @@ In order to download the required libraries, use:
 <b> pip3 install requirements.txt </b>
 
 ## How it works
-In order to create your dataset, you first have to specify the classes about which you are interested in. Those are the classes for which images will be downloaded automatically from the Yandex Images Search Engine. Write them down in the <i> classes.txt </i> file and then run the script using:
+In order to create your dataset, you first have to specify the classes about which you are interested in. Those are the classes for which images will be downloaded automatically from the Yandex Images Search Engine. Write them down in the <b> classes.txt </b> file and then run the script using:
 
 <b> python create_dataset.py </b>
 
