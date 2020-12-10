@@ -1,4 +1,4 @@
-# Create-Image-Dataset
+# Create Image Dataset
 
 ## Description
 This repository contains a naive but useful script for creating Image Datasets using the Yandex Images Search Engine. It can be useful for creating datasets for various Computer Vision tasks, such as image classification, object detection, instance or semantic segmentation etc.
